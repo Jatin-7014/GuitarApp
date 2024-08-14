@@ -1,0 +1,14 @@
+D:\C#\GuitarApp\bin\Debug\net8.0\GuitarApp.exe
+D:\C#\GuitarApp\bin\Debug\net8.0\GuitarApp.deps.json
+D:\C#\GuitarApp\bin\Debug\net8.0\GuitarApp.runtimeconfig.json
+D:\C#\GuitarApp\bin\Debug\net8.0\GuitarApp.dll
+D:\C#\GuitarApp\bin\Debug\net8.0\GuitarApp.pdb
+D:\C#\GuitarApp\obj\Debug\net8.0\GuitarApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\GuitarApp\obj\Debug\net8.0\GuitarApp.AssemblyInfoInputs.cache
+D:\C#\GuitarApp\obj\Debug\net8.0\GuitarApp.AssemblyInfo.cs
+D:\C#\GuitarApp\obj\Debug\net8.0\GuitarApp.csproj.CoreCompileInputs.cache
+D:\C#\GuitarApp\obj\Debug\net8.0\GuitarApp.dll
+D:\C#\GuitarApp\obj\Debug\net8.0\refint\GuitarApp.dll
+D:\C#\GuitarApp\obj\Debug\net8.0\GuitarApp.pdb
+D:\C#\GuitarApp\obj\Debug\net8.0\GuitarApp.genruntimeconfig.cache
+D:\C#\GuitarApp\obj\Debug\net8.0\ref\GuitarApp.dll
